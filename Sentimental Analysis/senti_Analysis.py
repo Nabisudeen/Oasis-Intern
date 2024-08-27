@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load Dataset
-data = pd.read_csv("C:\\Users\\Teddy\\OneDrive\\Documents\\Oasis Intern\\Sentimental Analysis\\Twitter_Data.csv")
+data = pd.read_csv("C:\\Users\\Teddy\\OneDrive\\Documents\\Oasis Intern\\Sentimental Analysis\\cleaned_reviews.csv")
 
 # Data Exploration Steps
 # Display the first 5 rows of the dataset
